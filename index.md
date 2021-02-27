@@ -1,23 +1,20 @@
 # Roberto Chan Balam
 
-```
 Region 91 Mz 45 Lt
 Benito Juarez
 H 9983825447
 Brobertochan@pm.me
-31 A ̃nos.
-Canc ́un Quintana Roo
+31 Años.
+Cancún Quintana Roo
 Soltero
-```
-## Educaci ́on
+
+## Educación
 
 ### 2012 – 2015 Universidad Politecnica de Quintana Roo.
 
-### Ingenieria en Software
+#### Ingenieria en Software
 
-```
 Periodo: Agosto 2012 a Agosto 2015
-```
 - Identificar problemas y necesidades informaticas para definir soluciones de organizaciones o
 posibles mejoras.
 - Disenar, desarrollar y mantener sistemas computacionales.
@@ -31,13 +28,12 @@ Frameworks.
 
 ### iCorp / Provident (Puebla)
 
-### Analista de Soporte a Equipos m ́obiles.
+#### Analista de Soporte a Equipos móbiles.
 
-```
 Periodo: 19 Dic 2019 - 30 abril 2020
 Objetivos detallados:
 Uso del Software Airwatch de VMware.
-```
+
 - Configuraci ́on de equipos m ́oviles con MDM, para el uso de los usuarios en campo.
 - Uso de Consola de Administraci ́on AirWatch, creaci ́on de usuarios, configuraci ́on de las
 terminales v ́ıa remota con el perfil del usuario.
@@ -49,12 +45,12 @@ terminales v ́ıa remota con el perfil del usuario.
 
 ### HardRock Hotel / Grupo RCD
 
-### Auxiliar en Sistemas
+#### Auxiliar en Sistemas
 
-```
+
 Periodo: Feb 2019 a Ago 2019
 Objetivos detallados:
-```
+
 - Uso de herramientas de Google, Suite.
 - Reporte de problemas con el Sistema, mejora y optimizacion de flujo de trabajo para
 usuarios.
@@ -76,12 +72,12 @@ Usuarios, Remote App.
 
 ### Soluciones Digitales / Centro de Servicio LENOVO
 
-### Ingeniero de Centro de Servicio LENOVO Sureste.
+#### Ingeniero de Centro de Servicio LENOVO Sureste.
 
-```
+
 Periodo: Oct 2018 a Ene 2019
 Objetivos detallados:
-```
+
 - Resolucion de problemas con la Marca LENOVO dentro y fuera de Garantia.
 - Diagnostico y Reparacion de equipos de c ́omputo entrantes en Taller
 - Carga de trabajo de 3 equipos de c ́omputo al dia aproximados.
@@ -94,12 +90,12 @@ Objetivos detallados:
 
 ### Soluciones Digitales/ INFONAVIT /SINTEG
 
-### Ing. Soporte
+#### Ing. Soporte
 
-```
+
 Periodo: Juni 2018 a Oct 2018
 Objetivos detallados:
-```
+
 - Resolucion de problemas de los usuarios.
 - Realizacion de tickets por parte de SINTEG
 - Apoyo en inventario del encargado de sistemas
@@ -111,10 +107,11 @@ Objetivos detallados:
 
 ### Soluciones Digitales / Aguakan
 
-### Soporte Sistemas
+#### Soporte Sistemas
 
 - Periodo: Feb 2017 a Jun 2018
 Objetivos detallados:
+
 Primer toma de contacto con incidencias en la organizacion, realizacion de reportes, seguimiento
 de problemas hasta su resolucion.
 Objetivos detallados:
@@ -135,7 +132,7 @@ Sueldo: 6500 al mes.
 
 ### Soluciones Digitales / Nouvatek. SA de CV
 
-### Tecnico en Equipos de computo
+#### Tecnico en Equipos de computo
 
 - Periodo: Ago 2016 a Ene 2017
 Objetivos detallados:
@@ -155,9 +152,9 @@ configuracion, revision de instalacion electrica.
 
 ### Logros
 
-```
+
 Experiencias o conocimientos:
-```
+
 - Comenzando trabajar desde el 2011 como Demovendedor de Impresoras en EPSON y
 posteriormente en LENOVO estando la carrera, desarroll ́e habilidades interpersonales para
 escuchar al cliente, y brindarle productos que resuelva necesidades en el ambiente Tecnol ́ogico.
