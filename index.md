@@ -1,9 +1,9 @@
 # Roberto Chan Balam
 
-Region 91 Mz 45 Lt
+Región 91 Mz 45 Lt 31
 Benito Juarez
 H 9983825447
-Brobertochan@pm.me
+robertochan@pm.me
 31 Años.
 Cancún Quintana Roo
 Soltero
@@ -34,10 +34,10 @@ Periodo: 19 Dic 2019 - 30 abril 2020
 Objetivos detallados:
 Uso del Software Airwatch de VMware.
 
-- Configuraci ́on de equipos m ́oviles con MDM, para el uso de los usuarios en campo.
-- Uso de Consola de Administraci ́on AirWatch, creaci ́on de usuarios, configuraci ́on de las
-terminales v ́ıa remota con el perfil del usuario.
-- Soporte a usuarios, v ́ıa telef ́onica, configurando o resolviendo incidentes.
+- Configuración de equipos móviles con MDM, para el uso de los usuarios en campo.
+- Uso de Consola de Administración AirWatch, creación de usuarios, configuración de las
+terminales vía remota con el perfil del usuario.
+- Soporte a usuarios, vía telefónica, configurando o resolviendo incidentes.
 - Monitoreo de Cuentas de correo Office 365, an ́alisis de problemas hardware via remota.
 - Uso de Helpdek Servicenow, Documentaci ́on y/o escalar con las ́areas pertinentes.
 - Contacto: Antonio Galloso, 782 113 3960
@@ -59,7 +59,7 @@ usuarios.
 - Manejo de Ticket, seguimiento de correos, proceso, documentacion finalizacion.
 - Seguimiento de incidencias con proveedores (Redes, Cableado Estructurado, Switches,
 implementaciones.)
-- Migracion de equipos de c ́omputo, uso de AD, Gestion de Permisos Synology, Permisos de
+- Migracion de equipos de c ́omputo, uso de AD, Gestión de Permisos Synology, Permisos de
 Usuarios, Remote App.
 - Peticion de equipos para las necesidades del usuario, perifericos o componentes internos.
 - Gestion y configuracion de iPads.
